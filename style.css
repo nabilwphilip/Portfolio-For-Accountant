@@ -895,3 +895,9 @@ p{
         height: 25rem;
     }
 }
+
+@media screen and (max-width: 370px){
+    .home,.about{
+        padding-bottom: 2rem;
+    }
+}
